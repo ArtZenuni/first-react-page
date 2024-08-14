@@ -24,12 +24,12 @@ const AppContainer = styled.div`
 
 function App() {
   return (
-    <Router>
+    <Router basename="/first-react-page">
       <GlobalStyle />
       <AppContainer>
         <Navbar />
         <Routes>
-          <Route path="/home" element={<HomePage />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
         </Routes>
