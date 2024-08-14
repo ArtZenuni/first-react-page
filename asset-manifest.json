@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/first-react-page/home/static/css/main.cbc512fe.css",
-    "main.js": "/first-react-page/home/static/js/main.95e8ab78.js",
-    "static/js/453.6af42e17.chunk.js": "/first-react-page/home/static/js/453.6af42e17.chunk.js",
-    "index.html": "/first-react-page/home/index.html",
-    "main.cbc512fe.css.map": "/first-react-page/home/static/css/main.cbc512fe.css.map",
-    "main.95e8ab78.js.map": "/first-react-page/home/static/js/main.95e8ab78.js.map",
-    "453.6af42e17.chunk.js.map": "/first-react-page/home/static/js/453.6af42e17.chunk.js.map"
+    "main.css": "/first-react-page/static/css/main.cbc512fe.css",
+    "main.js": "/first-react-page/static/js/main.e7a5d12e.js",
+    "static/js/453.6af42e17.chunk.js": "/first-react-page/static/js/453.6af42e17.chunk.js",
+    "index.html": "/first-react-page/index.html",
+    "main.cbc512fe.css.map": "/first-react-page/static/css/main.cbc512fe.css.map",
+    "main.e7a5d12e.js.map": "/first-react-page/static/js/main.e7a5d12e.js.map",
+    "453.6af42e17.chunk.js.map": "/first-react-page/static/js/453.6af42e17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbc512fe.css",
-    "static/js/main.95e8ab78.js"
+    "static/js/main.e7a5d12e.js"
   ]
 }
